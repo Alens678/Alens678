@@ -5,6 +5,9 @@ Hello and welcome to my GitHub profile!<br>I'm Alejandra, but you can call me Al
 <br>¡Hola y bienvenido a mi perfil de GitHub!<br><br>Soy Alejandra, pero puedes llamarme Aleja. Como desarrolladora web full-stack, he completado con éxito un bootcamp integral de desarrollo web. Actualmente, estoy sumergiéndome en el mundo de la computación en la nube a través del programa AWS re/Start, con el objetivo de convertirme en una hábil Profesional en la Nube.<br><br>Mi entusiasmo por la tecnología no conoce límites, y he descubierto una pasión especial por las complejidades de las soluciones en la nube. Ansiosa por ampliar mis habilidades, estoy adoptando activamente las metodologías y mejores prácticas de AWS. Además de mi experiencia técnica, tengo experiencia en la aplicación de metodologías ágiles como Kanban y Scrum, asegurando que mis proyectos no solo sean eficientes, sino también adaptables a requisitos cambiantes.<br><br>Únete a mí en este emocionante viaje mientras aprovecho mi experiencia y los nuevos conocimientos adquiridos para contribuir a proyectos innovadores en el mundo del desarrollo web y la computación en la nube.
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alens678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -16,16 +19,15 @@ Hello and welcome to my GitHub profile!<br>I'm Alejandra, but you can call me Al
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alens678&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alens678&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaleja679) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alejandra Naranjo Salinas) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alens678&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaleja679) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alejandra Naranjo Salinas) 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Alens678&icon=5&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
