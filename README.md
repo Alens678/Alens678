@@ -1,4 +1,6 @@
 # 💫 About Me:
+---
+[![](https://visitcount.itsvg.in/api?id=Alens678&icon=5&color=10)](https://visitcount.itsvg.in)
 
 Hello and welcome to my GitHub profile!<br>I'm Alejandra, but you can call me Aleja. As a full-stack web developer, I've successfully completed a comprehensive web development bootcamp. Currently, I'm diving into the realm of cloud computing through the AWS re/Start program, with the goal of becoming a proficient Cloud Practitioner.<br>My enthusiasm for technology knows no bounds, and I've discovered a special passion for the intricacies of cloud solutions. Eager to expand my skill set, I'm actively embracing AWS methodologies and best practices. In addition to my technical expertise, I'm well-versed in applying Agile methodologies such as Kanban and Scrum, ensuring that my projects are not only efficient but also adaptable to evolving requirements.<br>Join me on this exciting journey as I leverage my experience and newfound knowledge to contribute to innovative projects in the world of web development and cloud computing.<br>
 <br>***************************************<br>
@@ -28,6 +30,4 @@ Hello and welcome to my GitHub profile!<br>I'm Alejandra, but you can call me Al
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaleja679) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alejandra Naranjo Salinas) 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Alens678&icon=5&color=10)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
