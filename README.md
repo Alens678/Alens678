@@ -2,9 +2,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=Alens678&icon=5&color=10)](https://visitcount.itsvg.in)
 
-Hello and welcome to my GitHub profile!<br>I'm Alejandra, but you can call me Aleja. As a full-stack web developer, I've successfully completed a comprehensive web development bootcamp. Currently, I'm diving into the realm of cloud computing through the AWS re/Start program, with the goal of becoming a proficient Cloud Practitioner.<br>My enthusiasm for technology knows no bounds, and I've discovered a special passion for the intricacies of cloud solutions. Eager to expand my skill set, I'm actively embracing AWS methodologies and best practices. In addition to my technical expertise, I'm well-versed in applying Agile methodologies such as Kanban and Scrum, ensuring that my projects are not only efficient but also adaptable to evolving requirements.<br>Join me on this exciting journey as I leverage my experience and newfound knowledge to contribute to innovative projects in the world of web development and cloud computing.<br>
+Hello and welcome to my GitHub profile!<br> <br>I am Alejandra, but yoy can call me Aleja. Since I was a teenager, I have been interested in research and innovation. I have channeled this passion into full-stack web development, and currently, I am specializing in the AWS cloud as a Cloud Practitioner.
+
+In the last year and a half, I have been actively involved in the active pedagogy offered by Factoría F5, which has allowed me to adopt a mindset of continuous and autonomous learning.
+
+My goal is to start my professional journey in the industry, eager to be part of a dynamic team where I can not only learn and grow professionally but also contribute with my skills and knowledge.
+<br>
 <br>***************************************<br>
-<br>¡Hola y bienvenido a mi perfil de GitHub!<br><br>Soy Alejandra, pero puedes llamarme Aleja. Como desarrolladora web full-stack, he completado con éxito un bootcamp integral de desarrollo web. Actualmente, estoy sumergiéndome en el mundo de la computación en la nube a través del programa AWS re/Start, con el objetivo de convertirme en una hábil Profesional en la Nube.<br><br>Mi entusiasmo por la tecnología no conoce límites, y he descubierto una pasión especial por las complejidades de las soluciones en la nube. Ansiosa por ampliar mis habilidades, estoy adoptando activamente las metodologías y mejores prácticas de AWS. Además de mi experiencia técnica, tengo experiencia en la aplicación de metodologías ágiles como Kanban y Scrum, asegurando que mis proyectos no solo sean eficientes, sino también adaptables a requisitos cambiantes.<br><br>Únete a mí en este emocionante viaje mientras aprovecho mi experiencia y los nuevos conocimientos adquiridos para contribuir a proyectos innovadores en el mundo del desarrollo web y la computación en la nube.
+<br>¡Hola y bienvenido a mi perfil de GitHub!<br><br>Soy Alejandra, pero puedes llamarme Aleja. Desde adolescente me ha interesado la investigación y la innovación, he canalizado esta pasión hacia el desarrollo web full stack, y actualmente, me estoy especializando en la nube de AWS como Cloud Practitioner.
+En el último año y medio he participado de la pedagogia activa que ofrece Factoría F5,  lo que me ha permitido adoptar un enfoque de aprendizaje continuo y autónomo. 
+Mi objetivo es dar inicio a mi trayectoria profesional en el sector, ansiosa por formar parte de un equipo dinámico donde pueda no solo aprender y crecer profesionalmente, sino también contribuir con mis habilidades y conocimientos.
 
 
 ### ✍️ Random Dev Quote
